@@ -1,0 +1,5 @@
+{
+  "name": "Study Monitor",
+  "description": "A simple and elegant application to track your study progress. Add subjects and manage your writing and learning tasks for each one.",
+  "requestFramePermissions": []
+}
